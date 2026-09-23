@@ -1,0 +1,11 @@
+{
+  "classrooms": [
+    {
+      "schema": "classroom50/classroom/v1",
+      "name": "Programarea Calculatoarelor I",
+      "short_name": "programarea-c-i",
+      "term": "2026-2027",
+      "org": "tuiasi-lab"
+    }
+  ]
+}

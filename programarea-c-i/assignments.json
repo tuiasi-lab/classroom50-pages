@@ -1,0 +1,19 @@
+{
+  "schema": "classroom50/assignments/v1",
+  "assignments": [
+    {
+      "slug": "lab01",
+      "name": "Laboratorul 1 — Program, compilare, rulare",
+      "description": "Compilează, rulează și testează primul program C.",
+      "template": {
+        "owner": "tuiasi-lab",
+        "repo": "programarea-c-i-lab01-starter",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
+    }
+  ]
+}
