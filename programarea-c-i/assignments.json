@@ -3,8 +3,8 @@
   "assignments": [
     {
       "slug": "lab01",
-      "name": "Laboratorul 1 — Program, compilare, rulare",
-      "description": "Compilează, rulează și testează primul program C.",
+      "name": "Laboratorul 1 \u2014 Program, compilare, rulare",
+      "description": "Compileaz\u0103, ruleaz\u0103 \u0219i testeaz\u0103 primul program C.",
       "template": {
         "owner": "tuiasi-lab",
         "repo": "programarea-c-i-lab01-starter",
@@ -13,12 +13,13 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
-      "submission_mode": "tag"
+      "submission_mode": "tag",
+      "no_autograder": true
     },
     {
       "slug": "lab02",
-      "name": "Laboratorul 2 — Tariful bicicletei",
-      "description": "Modelează tariful pe intervale și tratează limitele.",
+      "name": "Laboratorul 2 \u2014 Tariful bicicletei",
+      "description": "Modeleaz\u0103 tariful pe intervale \u0219i trateaz\u0103 limitele.",
       "template": {
         "owner": "tuiasi-lab",
         "repo": "programarea-c-i-lab02-starter",
@@ -28,7 +29,8 @@
       "autograder": "default",
       "feedback_pr": true,
       "locked": true,
-      "submission_mode": "tag"
+      "submission_mode": "tag",
+      "no_autograder": true
     }
   ]
 }
