@@ -28,7 +28,6 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
-      "no_autograder": true,
       "submission_mode": "tag"
     }
   ]
