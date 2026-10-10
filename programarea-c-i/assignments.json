@@ -30,6 +30,21 @@
       "feedback_pr": true,
       "no_autograder": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "lab03",
+      "name": "Laboratorul 3 — Funcții și pointeri",
+      "description": "Modifică obiecte ale apelantului prin pointeri valizi.",
+      "template": {
+        "owner": "tuiasi-lab",
+        "repo": "programarea-c-i-lab03-starter",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "locked": true,
+      "submission_mode": "tag"
     }
   ]
 }
