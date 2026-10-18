@@ -44,6 +44,20 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "lab04",
+      "name": "Laboratorul 4: Tablouri și limite",
+      "description": "Parcurgi tablouri și tratezi limitele intervalului [0, count).",
+      "template": {
+        "owner": "tuiasi-lab",
+        "repo": "programarea-c-i-lab04-starter",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
