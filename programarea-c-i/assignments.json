@@ -58,6 +58,20 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "lab05",
+      "name": "Laboratorul 5: Șiruri de caractere și const",
+      "description": "Procesezi șiruri C terminate cu \\0, fără acces în afara bufferului.",
+      "template": {
+        "owner": "tuiasi-lab",
+        "repo": "programarea-c-i-lab05-starter",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
