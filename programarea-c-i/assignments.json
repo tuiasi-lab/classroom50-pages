@@ -30,6 +30,7 @@
       "autograder": "default",
       "feedback_pr": true,
       "no_autograder": true,
+      "locked": true,
       "submission_mode": "tag"
     },
     {
