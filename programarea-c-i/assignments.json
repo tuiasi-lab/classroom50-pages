@@ -45,6 +45,7 @@
       "mode": "individual",
       "autograder": "default",
       "feedback_pr": true,
+      "locked": true,
       "submission_mode": "tag"
     },
     {
