@@ -76,21 +76,6 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
-    },
-    {
-      "slug": "lab06",
-      "name": "Laboratorul 6: Alocare dinamică și gestionarea memoriei",
-      "description": "Crești, copiezi și eliberezi un buffer dinamic, cu ownership clar și cu verificarea fiecărei alocări.",
-      "template": {
-        "owner": "tuiasi-lab",
-        "repo": "programarea-c-i-lab06-starter",
-        "branch": "main"
-      },
-      "mode": "individual",
-      "autograder": "default",
-      "feedback_pr": true,
-      "locked": true,
-      "submission_mode": "tag"
     }
   ]
 }
