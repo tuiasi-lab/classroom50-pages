@@ -91,6 +91,20 @@
       "autograder": "default",
       "feedback_pr": true,
       "submission_mode": "tag"
+    },
+    {
+      "slug": "lab07",
+      "name": "Laboratorul 7: Structuri, enumerări și invarianți",
+      "description": "Scrii funcțiile unui robot cu energie și stare, descris cu un struct și un enum, care păstrează un invariant.",
+      "template": {
+        "owner": "tuiasi-lab",
+        "repo": "programarea-c-i-lab07-starter",
+        "branch": "main"
+      },
+      "mode": "individual",
+      "autograder": "default",
+      "feedback_pr": true,
+      "submission_mode": "tag"
     }
   ]
 }
